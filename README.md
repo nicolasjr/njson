@@ -1,6 +1,6 @@
 #NJson
 
-NJson is an extremely simple library for Serializing and Deserializing JSON. It’s differential resides in the fact that it can deserialize JSONs into a Model Class, with support for many types of variables.
+NJson is an extremely simple Unity3d library for Serializing and Deserializing JSON. It’s differential resides in the fact that it can deserialize JSONs into a Model Class, with support for many types of variables.
 
 It can also create a JSON string, requiring only a model class as parameter. That model class can even have pointers to other classes.
 
